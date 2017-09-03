@@ -10,6 +10,17 @@ hunter_add_version(
         PACKAGE_NAME
         SDL2
         VERSION
+        "2.0.4-p5"
+        URL
+        "https://github.com/hunter-packages/SDL2/archive/2.0.4-p5.tar.gz"
+        SHA1
+        62ef98242104326ce8b9ff6d5d38ac01c543800c
+)
+
+hunter_add_version(
+        PACKAGE_NAME
+        SDL2
+        VERSION
         "2.0.4-p4"
         URL
         "https://github.com/hunter-packages/SDL2/archive/2.0.4-p4.tar.gz"
