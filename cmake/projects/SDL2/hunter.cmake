@@ -14,7 +14,7 @@ hunter_add_version(
         URL
         "https://github.com/hunter-packages/SDL2/archive/2.0.4-p5.tar.gz"
         SHA1
-        62ef98242104326ce8b9ff6d5d38ac01c543800c
+        14dcb4c439f0dbd71ad0b92184b35e3a7f29e3ca
 )
 
 hunter_add_version(
